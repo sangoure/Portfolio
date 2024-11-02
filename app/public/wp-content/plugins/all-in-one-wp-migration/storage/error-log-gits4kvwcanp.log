@@ -1,0 +1,3 @@
+Nov 02 2024 00:29:52
+{"type":2,"message":"mkdir(): File exists","file":"C:\\Users\\slimb\\Local Sites\\portfolio\\app\\public\\wp-admin\\includes\\class-wp-filesystem-direct.php","line":558}
+
