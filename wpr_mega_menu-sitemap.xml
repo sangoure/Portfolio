@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ce plan de site a été généré dynamiquement le 16 mai 2025 à 1h28 par All in One SEO v4.8.2 - l’extension SEO originale pour WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=wpr_mega_menu"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[./index.html?wpr_mega_menu=wpr-mega-menu-item-360%5D%5D%3E</loc>
+		<lastmod><![CDATA[2024-10-30T11:47:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>

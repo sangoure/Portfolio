@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ce plan de site a été généré dynamiquement le 16 mai 2025 à 1h28 par All in One SEO v4.8.2 - l’extension SEO originale pour WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[./page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-04-22T17:29:06+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[./wpr_mega_menu-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-10-30T11:47:31+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

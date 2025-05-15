@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ce plan de site a été généré dynamiquement le 16 mai 2025 à 1h28 par All in One SEO v4.8.2 - l’extension SEO originale pour WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[./]]>/index.html</loc>
+		<lastmod><![CDATA[2025-04-22T17:29:06+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/IMG_portafolio-1.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/IMG_0945-fotor-bg-remover-2024101985732.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2025/02/Logo-anime-px-2.gif]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/qr-code.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/IMG_9347.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/nathalie-9-1.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Ajouter-un-titre-1.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/image_2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Ajouter-un-titre-3.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/work3.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/logo.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/steve-johnson-6.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Ajouter-un-titre-4.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/colors.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/16554564334118_FR_1148_P6_Banner-Printit-1.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/yogendra-singh-kOIODZD_ByQ-unsplash-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/10/Simpl-Vintage.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/pa-07.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/11/medical-nurse-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/12/drone2_hp-2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/uploads/2024/12/sora_img1-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[./wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg]]></image:loc>
+		</image:image>
+	</url>
+</urlset>
